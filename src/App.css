@@ -1,0 +1,10 @@
+.none{
+    display: none;
+}
+.display{
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    margin-right: 50%;
+}
